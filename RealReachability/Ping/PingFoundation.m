@@ -48,8 +48,6 @@
  */
 
 #import "PingFoundation.h"
-
-#include <sys/socket.h>
 #include <netinet/in.h>
 #include <errno.h>
 
